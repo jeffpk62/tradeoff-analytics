@@ -1,0 +1,71 @@
+{:navgroup: .navgroup}
+{:topicgroup: .topicgroup}
+
+{: .toc subcollection="tradeoff-analytics" audience="service" href="/docs/services/tradeoff-analytics/index.html"}
+Tradeoff Analytics
+
+    {: .navgroup id="learn"}
+    index.md
+    user-overview.md
+    developer-overview.md
+
+    {: .topicgroup}
+    Demos
+        [Quick demo](http://tradeoff-analytics-demo.mybluemix.net/)
+        [Full-function demo](http://tradeoff-analytics-ui-demo.mybluemix.net)
+
+    {: .topicgroup}
+    Additional resources
+        [Blog](https://developer.ibm.com/watson/blog/)
+        [Webinars](https://www.ibm.com/watson/webinars/)
+        [Watson videos](https://www.youtube.com/user/IBMWatsonSolutions/)
+    {: .navgroup-end}
+
+    {: .navgroup id="howto"}
+    tutorial.md
+    input.md
+    output.md
+
+    {: topicgroup}
+    Client widget version 2
+        visualization.md
+        client.md
+
+    {: .topicgroup}
+    Client widget version 1
+        visualization-v1.md
+        client-v1.md
+
+    {: topicgroup}
+    Service background
+        usecases.md
+        applied.md
+        science.md
+        references.md
+    {: .navgroup-end}
+
+    {: .navgroup id="reference"}
+    [API reference](https://www.ibm.com/watson/developercloud/tradeoff-analytics/api/v1)
+
+    {: .topicgroup}
+    Watson SDKs
+        [Android SDK](https://github.com/watson-developer-cloud/android-sdk)
+        [Apple iOS SDK](https://github.com/watson-developer-cloud/ios-sdk)
+        [Java SDK](https://github.com/watson-developer-cloud/java-sdk)
+        [Node.js SDK](https://github.com/watson-developer-cloud/node-sdk)
+        [Python SDK](https://github.com/watson-developer-cloud/python-sdk)
+        [Unity SDK](https://github.com/watson-developer-cloud/unity-sdk)
+
+    [Watson GitHub repos](https://github.com/watson-developer-cloud/)
+    {: .navgroup-end}
+
+    {: .navgroup id="help"}
+    faq.md
+    release-notes.md
+
+    {: .topicgroup}
+    Developer community
+        [StackOverflow](http://stackoverflow.com/questions/tagged/tradeoff-analytics)
+        [developerWorks Answers](https://developer.ibm.com/answers/topics/tradeoff-analytics/)
+        [WDC Slack channel](http://wdc-slack-inviter.mybluemix.net/)
+    {: .navgroup-end}
