@@ -60,7 +60,13 @@ Tradeoff Analytics
     {: .navgroup-end}
 
     {: .navgroup id="help"}
-    faq.md
+    {: .topicgroup}
+    FAQs
+        faq-basic-usage.md
+        faq-decision-problem.md
+        faq-problem-resolution.md
+        faq-visualization-interface.md
+
     release-notes.md
 
     {: .topicgroup}
