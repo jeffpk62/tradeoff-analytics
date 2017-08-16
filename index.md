@@ -2,7 +2,7 @@
 
 copyright:
   years: 2015, 2017
-lastupdated: "2017-08-09"
+lastupdated: "2017-08-15"
 
 ---
 
@@ -16,10 +16,12 @@ lastupdated: "2017-08-09"
 {:java: .ph data-hd-programlang='java'}
 {:python: .ph data-hd-programlang='python'}
 {:swift: .ph data-hd-programlang='swift'}
+{:note: .deprecated}
 
 # About
 
-> **Service update:** *The {{site.data.keyword.tradeoffanalyticsfull}} service is being deprecated. As of **May 11, 2017**, it will no longer be possible to create a new instance of the service on {{site.data.keyword.Bluemix_notm}}. Existing service instances will continue to be supported until **April 11, 2018**.*
+**The {{site.data.keyword.tradeoffanalyticsfull}} service is deprecated.** *It is no longer be possible to create new instances of the service. Existing service instances will continue to be supported until **April 11, 2018**.*
+{: deprecated}
 
 The {{site.data.keyword.tradeoffanalyticsfull}} service helps people make better choices when faced with multiple, often conflicting, goals and alternatives. By using mathematical filtering techniques to identify the best candidate options based on different criteria, the service can help users explore the tradeoffs between options to make complex decisions. The service combines smart visualization and analytical recommendations for easy and intuitive exploration of tradeoffs.
 {: shortdesc}
