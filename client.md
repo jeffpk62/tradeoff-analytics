@@ -2,7 +2,7 @@
 
 copyright:
   years: 2015, 2017
-lastupdated: "2017-08-09"
+lastupdated: "2017-09-09"
 
 ---
 
@@ -173,10 +173,10 @@ The optional `options` argument is a JSON object that specifies the parameters w
       <ul style="margin-left:20px; padding:0px;">
         <li style="margin:10px 0px; color:#404040; line-height:120%;">
           If <code>useProxy</code> is <code>false</code>,
-          <code>/tradeoff-analytics-token</code>. (For high-level
-          information about using tokens, see
-          <a href="https://www.ibm.com/watson/developercloud/doc/common/getting-started-tokens.html">Tokens for
-            authentication ![External link icon](../../icons/launch-glyph.svg "External link icon")</a>.)
+          <code>/tradeoff-analytics-token</code>. (For more information
+          about using tokens, see
+          <a href="/docs/services/watson/getting-started-tokens.html">Tokens
+            for authentication</a>.)
         </li>
         <li style="margin:10px 0px; color:#404040; line-height:120%;">
           If <code>useProxy</code> is <code>true</code>, the field is
