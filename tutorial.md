@@ -2,7 +2,7 @@
 
 copyright:
   years: 2015, 2017
-lastupdated: "2017-08-09"
+lastupdated: "2017-09-09"
 
 ---
 
@@ -28,7 +28,7 @@ The {{site.data.keyword.tradeoffanalyticsfull}} service helps people make better
 
 Before starting the tutorial, make sure that you meet the following prerequisites:
 
--   **Obtain {{site.data.keyword.Bluemix_short}} credentials:** For information about obtaining service credentials for working with a {{site.data.keyword.watson}} service in {{site.data.keyword.Bluemix_notm}}, see [Service credentials for {{site.data.keyword.watson}} services ![External link icon](../../icons/launch-glyph.svg "External link icon")](https://www.ibm.com/watson/developercloud/doc/common/getting-started-credentials.html){: new_window}.
+-   **Obtain {{site.data.keyword.Bluemix_short}} credentials:** For information about obtaining service credentials for working with a {{site.data.keyword.watson}} service in {{site.data.keyword.Bluemix_notm}}, see [Service credentials for {{site.data.keyword.watson}} services](/docs/services/watson/getting-started-credentials.html).
 -   **Install the cURL executable:** cURL is a popular command-line tool for calling methods of HTTP interfaces. If you have not already downloaded the `curl` executable, you can install the version for your operating system from [curl.haxx.se ![External link icon](../../icons/launch-glyph.svg "External link icon")](http://curl.haxx.se){: new_window}. You must install the version that supports the Secure Sockets Layer (SSL) protocol. Make sure to include the installed binary file on your `PATH` environment variable.
 
 The examples use the cURL `--user` option to pass valid credentials for the service. In the examples, replace `{username}:{password}` with the values of the *username* and *password* from your service credentials. Note that you must use your service credentials, *not* your {{site.data.keyword.Bluemix_notm}} ID and password.
