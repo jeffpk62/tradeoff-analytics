@@ -585,8 +585,8 @@ The following table describes metadata that can be provided by the calling appli
     <td>A unique identifier for the context in which the
       call to the service was made (for example, from a particular
       page in the application). Specify a human-readable identifier
-      that is unique in the scope of the Bluemix organization, space,
-      and application.</td>
+      that is unique in the scope of the {{site.data.keyword.Bluemix_notm}}
+      organization, space, and application.</td>
   </tr>
   <tr>
     <td><code>app-version</code></td>
