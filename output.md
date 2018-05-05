@@ -1,8 +1,8 @@
 ---
 
 copyright:
-  years: 2015, 2017
-lastupdated: "2017-08-09"
+  years: 2015, 2018
+lastupdated: "2018-05-05"
 
 ---
 
@@ -40,7 +40,8 @@ The following table describes the fields of the `Dilemma` object, both of which 
     <td>
       The <code>Problem</code> object submitted in the call to the
       <code>dilemmas</code> method of the service. For more information,
-      see <a href="input.shtml">Submitting a decision problem</a>.
+      see <a href="/docs/services/tradeoff-analytics/input.html">Submitting
+      a decision problem</a>.
     </td>
   </tr>
   <tr>
