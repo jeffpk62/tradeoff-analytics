@@ -1,8 +1,8 @@
 ---
 
 copyright:
-  years: 2015, 2017
-lastupdated: "2017-08-09"
+  years: 2015, 2018
+lastupdated: "2018-05-05"
 
 ---
 
@@ -67,8 +67,7 @@ The {{site.data.keyword.IBM_notm}} DemandTec&reg; promotion and optimization off
 
 > *The out of the box visualizations allow us to get immediate value as we build in additional {{site.data.keyword.watson}} services to provide more in-depth analysis in future features on our roadmap.*
 
-Since its beta release, the {{site.data.keyword.tradeoffanalyticsshort}} service has been used in numerous hackathon applications and various decision-making problems. Some examples of applications that use the service follow:
+Since its beta release, the {{site.data.keyword.tradeoffanalyticsshort}} service has been used in numerous hackathon applications and various decision-making problems. Examples of applications that use the service follow:
 
 -   [NYC School Finder ![External link icon](../../icons/launch-glyph.svg "External link icon")](http://nycschoolfinder.mybluemix.net/){: new_window} finds the best school for your child in New York City based on your child's personality.
--   [Nests ![External link icon](../../icons/launch-glyph.svg "External link icon")](http://nests.mybluemix.net/){: new_window} finds the best home for you in the United States based on your preferred housing attributes.
 -   [PlanAdvisor ![External link icon](../../icons/launch-glyph.svg "External link icon")](http://challengepost.com/software/planadvisor){: new_window} navigates the process of selecting the health insurer that best suits your family's needs.
