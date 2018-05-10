@@ -1,8 +1,8 @@
 ---
 
 copyright:
-  years: 2015, 2017
-lastupdated: "2017-08-09"
+  years: 2015, 2018
+lastupdated: "2018-05-10"
 
 ---
 
@@ -235,8 +235,12 @@ The banner provides additional capabilities for working with objectives and opti
 
 <table style="width: 80%">
   <caption>Table 2. Capabilities available from the banner</caption>
-  <tr style="border-top:1px solid #eee">
-    <td style="text-align:center; width:20%">
+  <tr>
+    <th style="text-align:center; width:20%">Icon</th>
+    <th>Description</th>
+  </tr>
+  <tr>
+    <td style="text-align:center">
       <img src="images/TA-Undo.png"
            alt="Tradeoff Analytics Undo Option (Advanced)">
     </td>
@@ -247,7 +251,7 @@ The banner provides additional capabilities for working with objectives and opti
     </td>
   </tr>
   <tr>
-    <td style="text-align:center; width:20%">
+    <td style="text-align:center">
       <img src="images/TA-Redo.png"
            alt="Tradeoff Analytics Redo Option (Advanced)">
     </td>
@@ -258,7 +262,7 @@ The banner provides additional capabilities for working with objectives and opti
     </td>
   </tr>
   <tr>
-    <td style="text-align:center; width:20%">
+    <td style="text-align:center">
       <img src="images/TA-Clear-Favorites.png"
            alt="Tradeoff Analytics Clear Favorites Option (Advanced)">
     </td>
@@ -270,7 +274,7 @@ The banner provides additional capabilities for working with objectives and opti
     </td>
   </tr>
   <tr>
-    <td style="text-align:center; width:20%">
+    <td style="text-align:center">
       <img src="images/TA-Reset-All.png"
            alt="Tradeoff Analytics Reset All Option (Advanced)">
     </td>
